@@ -1,0 +1,2 @@
+bottle==0.12.25
+bottle-cors-plugin==0.1.9

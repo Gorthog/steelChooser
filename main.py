@@ -142,6 +142,91 @@ steel_map = {
     "toughness": 5.0,
     "edge_retention": 5.5,
     "corrosion_resistance": 6.5
+  },
+  "10V": {
+    "toughness": 5,
+    "edge_retention": 8.5,
+    "corrosion_resistance": 4
+  },
+  "15V": {
+    "toughness": 3.5,
+    "edge_retention": 10,
+    "corrosion_resistance": 4
+  },
+  "3V": {
+    "toughness": 9,
+    "edge_retention": 4.5,
+    "corrosion_resistance": 5.5
+  },
+  "A2": {
+    "toughness": 6.5,
+    "edge_retention": 2.5,
+    "corrosion_resistance": 3
+  },
+  "CPM-CruWear": {
+    "toughness": 8,
+    "edge_retention": 5,
+    "corrosion_resistance": 5.5
+  },
+  "CPM-M4": {
+    "toughness": 6.5,
+    "edge_retention": 6,
+    "corrosion_resistance": 4
+  },
+  "D2": {
+    "toughness": 3.5,
+    "edge_retention": 5,
+    "corrosion_resistance": 4.5
+  },
+  "K390": {
+    "toughness": 5.5,
+    "edge_retention": 7.5,
+    "corrosion_resistance": 4
+  },
+  "M2": {
+    "toughness": 5,
+    "edge_retention": 4,
+    "corrosion_resistance": 4
+  },
+  "Maxamet": {
+    "toughness": 2,
+    "edge_retention": 11,
+    "corrosion_resistance": 4.5
+  },
+  "Rex 121": {
+    "toughness": 1,
+    "edge_retention": 12,
+    "corrosion_resistance": 3.5
+  },
+  "Rex 45/HAP40": {
+    "toughness": 4.5,
+    "edge_retention": 6,
+    "corrosion_resistance": 4
+  },
+  "V4E/4V": {
+    "toughness": 7,
+    "edge_retention": 5,
+    "corrosion_resistance": 4
+  },
+  "Vanadis 8": {
+    "toughness": 6,
+    "edge_retention": 7.5,
+    "corrosion_resistance": 4
+  },
+  "ZDP-189": {
+    "toughness": 2,
+    "edge_retention": 8,
+    "corrosion_resistance": 5
+  },
+  "Z-Max": {
+    "toughness": 3.5,
+    "edge_retention": 10,
+    "corrosion_resistance": 4
+  },
+  "Z-Tuff": {
+    "toughness": 10,
+    "edge_retention": 2.5,
+    "corrosion_resistance": 5.5
   }
 }
 
